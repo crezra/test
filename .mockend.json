@@ -1,0 +1,32 @@
+{
+    "File": {
+        "name": {
+            "string": {}
+        },
+        "path": {
+            "string": {}
+        },
+        "url": {
+            "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+        },
+        "size": {
+            "int": {}
+        },
+        "extension": {
+            "string": {}
+        },
+        "mime": {
+            "string": {}
+        },
+        "lastModifiedAt": {
+            "dateTime": {}
+        },
+        "type": {
+            "string": [
+                "file",
+                "image",
+                "video"
+            ]
+        }
+    }
+}
